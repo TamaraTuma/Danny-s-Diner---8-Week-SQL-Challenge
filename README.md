@@ -16,3 +16,6 @@ Danny has shared with you 3 key datasets for this case study:
 
 # Entity Relationship Diagram
 ![](entity_relationship_diagram.png)
+
+# Dataset
+## Sales Table
