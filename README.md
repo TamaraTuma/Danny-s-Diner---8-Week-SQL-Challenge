@@ -20,6 +20,7 @@ Danny has shared with you 3 key datasets for this case study:
 # Dataset
 ## Sales Table
 The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
+
 ![](sales_table.png)
 
 ## Menu table
