@@ -19,3 +19,14 @@ Danny has shared with you 3 key datasets for this case study:
 
 # Dataset
 ## Sales Table
+The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
+![](sales_table.png)
+
+## Menu table
+The menu table maps the product_id to the actual product_name and price of each menu item.
+![](menu_table.png)
+
+## Members table
+The final members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
+![](members_table.png)
+
