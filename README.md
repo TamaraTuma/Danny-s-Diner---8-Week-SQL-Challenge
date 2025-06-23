@@ -15,4 +15,4 @@ Danny has shared with you 3 key datasets for this case study:
 3. members
 
 # Entity Relationship Diagram
-![](entity_relationship_diagram.jpg)
+![](entity_relationship_diagram.png)
