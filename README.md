@@ -1,1 +1,1 @@
-# Danny-s-Diner---8-Week-SQL-Challenge
+# Dannys_Diner_8_Week_SQL_Challenge
