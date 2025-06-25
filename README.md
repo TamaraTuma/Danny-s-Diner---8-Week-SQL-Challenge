@@ -25,10 +25,12 @@ The sales table captures all customer_id level purchases with an corresponding o
 
 ## Menu table
 The menu table maps the product_id to the actual product_name and price of each menu item.
+
 ![](menu_table.png)
 
 ## Members table
 The final members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
+
 ![](members_table.png)
 
 # Question 1 : What is the total amount each customer spent at the restaurant?
