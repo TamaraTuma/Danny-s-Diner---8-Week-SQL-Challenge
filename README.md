@@ -36,4 +36,11 @@ The final members table captures the join_date when a customer_id joined the bet
 # Question 1 : What is the total amount each customer spent at the restaurant?
 ![](question_1.png)
 
+# Question 2 : How many days has each customer visited the restaurant?
+![](question_2.png)
 
+# Question 3 : What was the first item from the menu purchased by each customer?
+![](question_3.png)
+
+# Question 4 : What is the most purchased item on the menu and how many times was it purchased by all customers?
+![](question_4.png)
